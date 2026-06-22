@@ -1,0 +1,9 @@
+event_type,event_category
+checkout,Behavioral
+wishlist_add,Behavioral
+profile_update,Behavioral
+page_view,Behavioral
+login,Behavioral
+logout,Behavioral
+search,Behavioral
+add_to_cart,Behavioral
